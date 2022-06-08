@@ -1,5 +1,7 @@
 # Library-Management-Project
-
+        This is fully user friendly Library Management System Project . Oop's Concept has been used to make this project more realistic . 
+        Concept of File Handling in Java is used to store the data which has been given input when we run code . 
+        This is Unique project because i have used Text Files as Backend to store data .
 ## Output Screenshots
 
 ![Screenshot (40)](https://user-images.githubusercontent.com/103045206/172562488-ef9d9aad-c283-4c42-9471-4ce9b1d7e7c5.png)
